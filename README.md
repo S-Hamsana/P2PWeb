@@ -1,1 +1,1 @@
-[Visit P2P](http://p2p.infy.uk)
+[Visit P2P](peer2peer.gt.tc)

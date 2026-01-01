@@ -1,1 +1,1 @@
-[Visit P2P](peer2peer.gt.tc)
+[Visit P2P](https://peer2peer.gt.tc/?i=1)
